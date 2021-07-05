@@ -1,5 +1,3 @@
-package com.company;
-
 class Star
 {
     public static void main(String args[])
